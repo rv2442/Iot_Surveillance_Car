@@ -1,0 +1,47 @@
+:Author: rv2442
+:Email: rahulvijan1@gmail.com
+:Date: 29/09/2021
+:Revision: version#
+:License: Public Domain
+
+= Project: IOT SURVEILLANCE CAR
+
+== Step 1: Installation
+-  Go to LEARN.md of this repository
+
+== Step 2: Assemble the circuit
+
+Assemble the circuit following the diagram layout.png attached to the sketch
+
+== Step 3: Load the code
+
+Upload the code contained in this sketch on to your board
+
+=== Folder structure
+
+....
+ sketch123                => Arduino sketch folder
+  ├── sketch123.ino       => main Arduino file
+  ├── schematics.png      => (optional) an image of the required schematics
+  ├── layout.png          => (optional) an image of the layout
+  └── ReadMe.adoc         => this file
+....
+
+=== License
+This project is released under a {License} License.
+
+=== Contributing
+To contribute to this project please contact: {Email}
+
+=== BOM
+
+
+List of Products is mentioned on README.md of root directory of this repository.
+
+Total cost was INR 4-5k.  
+
+
+=== Help
+This document is written in the _AsciiDoc_ format, a markup language to describe documents. 
+If you need help you can search the http://www.methods.co.nz/asciidoc[AsciiDoc homepage]
+or consult the http://powerman.name/doc/asciidoc[AsciiDoc cheatsheet]
